@@ -139,5 +139,6 @@ plt.show()
 <img width="727" height="520" alt="Screenshot 2025-11-15 104601" src="https://github.com/user-attachments/assets/7c983f2e-1068-4bdf-8c6b-cd3a740ee96b" />
 <img width="739" height="487" alt="Screenshot 2025-11-15 104458" src="https://github.com/user-attachments/assets/2ef8568b-e73c-42d7-b8fd-bdc98ecc286d" />
 <img width="769" height="519" alt="Screenshot 2025-11-15 104637" src="https://github.com/user-attachments/assets/f8c657ab-9b90-44b0-938e-e875d59b99f6" />
+
 ## result:
 thus the program executed succesfully.
